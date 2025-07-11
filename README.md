@@ -10,4 +10,4 @@ Este repositório tem como objetivo facilitar o acesso, compartilhamento e prese
 
 Clone ou baixe o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/eduardapastore/Revista-Ouricuri-ArtigosWeb
